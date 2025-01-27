@@ -1,4 +1,4 @@
-https://ciberseguridad.ift.org.mx/reporte_ciudadano.php
+https://
 
 <!--
 **Ofrl9/Ofrl9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
